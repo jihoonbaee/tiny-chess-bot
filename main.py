@@ -1,2 +1,166 @@
-import lzma,base64
-exec(lzma.decompress(base64.b85decode('{Wp48S^xk9=GL@E0stWa8~^|S5YJf5;2awZZCwB~n@VT6Qap3u7A1{kq%BCy*Zw%i%6k3wt3nOoV&X(3n2<_{q!-)CSfACKfX~#RKlrI+MSCw4zrJXBjoz3Qo@(JKqcSQr9@j&HhmYT#C=x8n4XRdXjJW_E$KSh;bb1*5G}mP1%mcB<Asd1qAAg^?6Xr!P8C0r$hq)wE9(i)Rtgeb2`+HB{xS8<x2)h3?KuCw#Jc{&)MUnTwrEubuQ}O$aMN*8`EmzwF_P%zbPazkqgUcsNR<!s>5VkAV1DQG(By%}+C8(f=iwPy0lRgAyNz7O)PwZ*O-Z`8&L3S1c82Spj5%VxwhKxK>58_)r$&g#!WcQ<Gw{fiw?dOkx=0)Dg$B~&K`X#p#%KFY|;())XJ$_ysnoP8F@BIdQ6v0>1T{wvkPdnAP;tahUOCinUsvl3^w$bCUfL&?&g@7bw#c8vbkM!lf1l`xl9$GYf_QN%De<wzIBkj6u0fjG$=H3GbSCt#v@!O;2N8}8Lp*ex)k_BekBug+;9#XA;dBW%6SuWTDmlIjT_Cg!j;u<eTcr)GnnH>e^Qs^a8L>ewSImhVF!p8iYz4b&#QgGF5o$yFPpsNi-^2z+}EW|sGJB6YwB=@mZ*p%cu+!DfY1NKHv&Cv0HC=O&-{^fM=M?RilvL^Cvro$)+-*nD4aL!uxn;Hm1B=Ov{Vi>D6Y#|A^R&?s=ENxG^*L1mgK1ety8Ir`zyX*tWepmqb9Hh7fNsM#8(;Sl~^QZjSS`(7IFRN$rgTg!|Z%$i?Yd5Opj^M`%E#R65(wStk6kNM;SI;1m0VZ2{D>S_j%NAMLphw*SPsRMM=u}VefR@O4<U}2k%+=&;Un1q^H2Lymv0|v36c-3LvC9C)ES=3byzf<NJyl)ssTzi1YEI;2MwtzHRxx0id3IxDjLTjk{qIH9hO~aFn;37J<kazu2qgyJdcqFZfNE#oEPW+D=dJMatB<AF-GtB8*GHoaJ23G$by_DJ;)F&Z;+Mk6s-2rz3{uxbwGH}niKG&!bs{bR-7%{v_-7#s=+?Y)K>+TV>Jx!MYnC(wh^oX>MS-{Im#n&f^vJfX?OvTpr~IW<I-;sghleywcKjZv6=GY7G)@>62|P2?ZoE%8=Pw_xYBpprGK<SNVj)l5+Iux*>FmJmjC>#bGjXnef+!t24=D;&rW&hpL3zWJf~t+|p&*z@1f$0+qw<*|sr`#+4Bgx<@FKrzg=ie(*VAuQuLVt;^0B1VUgSx33{*Ix|0Q)VbOS{bEL!~Kkmo4AT6~%Z1*Wd|F}-mv+S&i-(d<}P>>k`w3$^Vbz{|BO-Gp6Gx1ru7mZgmNA$6%PQc@~sIYSALaHYp67i^MU3CS4ZoICGOM>sqKd$IsLOA7IxdfA%KZ7^&YA18Fy-VI&O>gkm7VdBdp+7ykNY(E;qr$30!DY0@iBO1|c$WaOI@0b%nR~81ftdw0!NakG{kYJ$OG<<$<X1V)T*cL%}&Z~NDDy_aLwejlTSFBeg@?0-Z*pY@kjG<BFfo(>~8p|BWVj)-{O*C<c1a)A$o|~2BVmB*U1i3)V`P`*`Cs<bY^1aL+8p;4}*OFeaG`L1qBCEg7t)4kgH!4Eow_&TAj+l%XF{GBa9`qx*ONEsLb2ygnzZyN<hs{(txfDcUdFTqH5s=qzma&<QcAe4GZGTcHR+TYIO#@w^RGGk}4yuF%652s2Jxv*lo5x+b@0-o+Yv|AM8gcT%lW?po(f8enN5)-rfr^UTb02L7qSh&SrATjV)E@G}d62SjMOjlhDIzI1L3KpfU`-TKFNb#<3W5}tJQd>5QGX$3tTBt{;0LK{+3?XnH%Rsc1u=<MqYiutwgiu_VR7Av*rKBfk|iO01_C1^dMYE*`})c1K(YSH4Tmuw4(1s^axZP_pyJ;u_!qU*PRnIMM$h>I->OG@EB+`y6{S9hhy;VQ`a(;}d_>tzZB<xBbi74iY4zei!~z;EE$N5Sj8TcZx_)|F7*^bsAml8;mVk>;<`?ACbZ_fQXk|#73B9@QKz@WY&Ew-5_?K{>VbAPWuYZq*tX>zXma3;i&Olt-K~aVSAOOKKzN+hb@t=1i#}Il#kf|qM_b|qU3iJsS;(XSt<b&%Zro72r<;w$4UsU#*DMA2o$*20Br@BS|0HJuBLwvSHsYKw`D2Z*>IXz+8P!SQRsmm5_&8;Ue!VNk9n=kf_qf?1mFdW^!ZV0~FJ1=ac<M1ht!Nzp?N=31Hm(`u!Ls%*xQly{y4f6RAi25o2|Dv)O2Ea4gz9BWt_JT#!2gbF=+<+8)Wa$WUo2#aoX)J+D6J<btwr6zC%=R7LaMD}(b@mKDH3w@SeXhASJ+oNwl=hZkR|W=*2(=e-E_yFFpA}JXIbU1n8tiT_J^YIF`P9|*7m!UJ8(%4>XWtET7{Ymx6aBqvt#e*=c`5_H%_t&;mc9Uk>80-8l|VURH8)hO_u!c&MhJ9b4Y&;FEt91wI>@uB>R;-l?4w?^_olR<G&CP6AUXWf23o~k#lD0e=h7w|+_x=I5pUH|7H)FxQ5J@}m*4YOY!W4tK#`@@o!At9?j4lYYXItpEQ^z!Xd}A;cAtOFNw2nt*AsPdZNsIHZOYodIA_yAI9TcnM|-cmZHFj)*=zcpe2m;I@QvA<A3PGk@ZuFcqEp**aFTfDL!9jaAW<g(-&kdICXe1M*80-Pg6dE!SiTXxnjeMu36MB5#I5CA{cob+StT-N2t8VgVbNsBCYO*MD1UuLvl0ewJ!5ch0_^q2w1ry}9iYi+%MIecJ%Rp9rHho!H_qd=VpMg()M|8lw`61eq8stfMQz*M{*Nz}OkEq#WnPJAQbLxIJiK*3!J4#cJcmfFK4?1Vk2OBk<Edf|M?Ie-L!Yp!H*9nK9tL!ecv95Ci|WO`Q6)wY01|&M&glA@Ir6xD&W!a8l&MPIlg~sCwkhgnLeWMze1Ho91IFyvP)Bb+m^A}WMs{F8KOZrBd0pV5|6HzCu-{OG&oc)LsM4XIs~U#vE{RFrYqE=eka95)J;IW4MNc8U#~B@+Ov)S@P3t(EJNvdiyJMBaMh%H-+mbu>Vq~&A)$zamwMpJf+)Q86$gnTG@x~uLf(+AvVp7x^8_TtmcPe#Eq>1}}eD9gG1{Uw0=HztjzEIl;w$bJTAntsYVH<0FFanjOF4_XV&6HRa65H$9fpWt&(T^a1|EJ2~foSW##*0c=zZa_rlva&{^~pK1Zn8A2na47agCD3Bt##u)f9hV;uX1*Zq4f~+H`}WTfR9ho7<2bI15S9dJ5Xi;^Ceth8X-tMLlRkSAjRa8_g86af=>Uu@V`wpRFQx=YlC6t9NXkt!kVNAA>o3U$>@*Y==YQu)9MDnQJR;=C)}o0-Nt{bk;7_n3fejgTgTw0A&X&VU#a-8i$x1_3_~B>2r7BGofdh7ajFN!RFwp)q~@E9X|ixP3Sx#qk$aO8wLt-I`m>Ea$aD3&M<|2<>5AI4`0dnwT7}y+MtzxV<PXQpJu!an-&L`IV&HEa9f&O-7DulAp55}KoUKz@U6*YLT@K4!CLS9qRQcxYLy;{p;V^?A3s|KZVG<q_czOP)7);3;>xD}AK+R6hy)!u<<&#wyu;G>d=KT}eGFHhag8jn_!E_J~Z;pMl*7Pra)!QG4_L{*7B_C}3+>H+1+cQ+d?cyK{6AK$ExWQ(4)jHl=D20UeI|~+krIQ7{3eiKgui0&^maeHF+SX&Z-n-DdUe5rl)@atE9}Nwr!s2LTPKE9C00000Ar-sUO(4U(00D^?oHzggYcRz1vBYQl0ssI200dcD')))
+import os,json,urllib.request as u
+V=(0,100,320,330,500,900,0)
+KN=(-33,-31,-18,-14,14,18,31,33)
+DG=(-17,-15,15,17)
+OR=(-16,-1,1,16)
+DR=DG+OR
+DM={4:3,0:2,7:1,116:12,112:8,119:4}
+X=136
+P=[[V[a]]*128 for a in range(7)]
+for i in range(128):
+ f=i&7;r=i>>4;c=min(f,7-f)+min(r,7-r)
+ P[1][i]+=7*r;P[2][i]+=6*c;P[3][i]+=4*c;P[5][i]+=2*c;P[4][i]+=3*r;P[6][i]-=2*c
+T={};N=0;NP=14;KL=[0]*128;TE=TimeoutError
+def at(q,y):
+ for o in KN:
+  if not(q+o)&X and B[q+o]==2*y:return 1
+ for o in DR:
+  t=q+o
+  while not t&X and not B[t]:t+=o
+  if t&X:continue
+  b=B[t]
+  if b==5*y or b==(3*y if o in DG else 4*y)or t==q+o and(b==6*y or o in DG and o*y<0 and b==y):return 1
+ return 0
+def ev():return sum(P[p][i]if p>0 else-P[-p][i^112]for i,p in enumerate(B)if p)*s
+def gn(cp):
+ M=[]
+ for f,p in enumerate(B):
+  if p*s<=0:continue
+  a=abs(p)
+  if a==1:
+   d=16*s;t=f+d;L=[]
+   if not t&X and not B[t]:
+    if t>>4 in(0,7)or not cp:L+=[t]
+    if not cp and f>>4==1+5*(s<0)and not B[f+2*d]:L+=[f+2*d]
+   for o in(d-1,d+1):
+    t=f+o
+    if not t&X and(B[t]*s<0 or t==E):L+=[t]
+   for t in L:
+    if t>>4 in(0,7):
+     for q in(5,4,3,2):M+=[f+t*128+q*16384]
+    else:M+=[f+t*128]
+  else:
+   for o in(KN,DG,OR,DR,DR)[a-2]:
+    t=f+o
+    for _ in range(8*(2<a<6)or 1):
+     if t&X:break
+     if B[t]:M+=[f+t*128]if B[t]*s<0 else[];break
+     if not cp:M+=[f+t*128]
+     t+=o
+ if not cp:
+  e=60-56*s
+  for k,n in((1,1),(2,-1)):
+   b=k<<2*(s<0)
+   if C&b and B[e]==6*s and not(B[e+n]or B[e+2*n]or n<0 and B[e+3*n])and all(not at(q,-s)for q in(e,e+n,e+2*n)):M+=[e+(e+2*n)*128]
+ return M
+def mk(m):
+ global C,E,s,NP
+ f=m&127;t=(m>>7)&127;q=m>>14;p=B[f]
+ w=(B[:],C,E,K[:],NP)
+ if p==s and t==E and not B[t]:B[t-16*s]=0
+ B[f]=0;c=B[t]
+ NP-=1<abs(c)<6
+ B[t]=q*s if q else p
+ NP+=q>0
+ if abs(p)==6:
+  K[(1-s)//2]=t
+  if abs(t-f)==2:
+   rf=t+1 if t>f else t-2;rt=t-1 if t>f else t+1;B[rt]=B[rf];B[rf]=0
+ C&=~(DM.get(f,0)|DM.get(t,0))
+ E=f+16*s if p==s and abs(t-f)==32 else -1
+ s=-s
+ return w
+def un(w):
+ global C,E,s,NP
+ B[:],C,E,K[:],NP=w;s=-s
+def sr(g,d,p):
+ global N,E,s
+ N+=1
+ if N>1e5:raise TE
+ ck=at(K[(1-s)//2],-s)
+ d+=ck and d>0
+ tm=0
+ if d<=0:
+  if ck:ms=gn(0);bo=-999999
+  else:
+   st=ev()
+   if st>=g:return st
+   ms=gn(1);bo=st
+ else:
+  k=(tuple(B),C,E,s);e=T.get(k)
+  if e:
+   tm=e[3]
+   if e[0]>=d:
+    if e[1]>=g:return e[1]
+    if e[2]<g:return e[2]
+  if d>2 and not ck and NP>0:
+   z=E;E=-1;s=-s;sc=-sr(1-g,d-3,p+1);s=-s;E=z
+   if sc>=g:return sc
+  ms=gn(0);bo=-999999
+ ms.sort(key=lambda m:(m==tm)*9999+(m==KL[p])*5000+10*V[abs(B[(m>>7)&127])],reverse=True)
+ bm=0;nl=0
+ for m in ms:
+  w=mk(m)
+  if at(K[(1+s)//2],s):un(w);continue
+  nl+=1
+  sc=-sr(1-g,d-1,p+1)
+  un(w)
+  if sc>=g:
+   KL[p]=m
+   if d>0:T[k]=(d,max(-89e3,min(89e3,sc)),999999,m)
+   return sc
+  if sc>bo:bo=sc;bm=m
+ if not nl:return p-9e4 if ck else 0 if d>0 else st
+ if d>0:T[k]=(d,-999999,max(-89e3,min(89e3,bo)),bm)
+ return bo
+def ch():
+ global N
+ T.clear()
+ ms=gn(0)
+ lg=[]
+ for m in ms:
+  w=mk(m)
+  if not at(K[(1+s)//2],s):lg+=[m]
+  un(w)
+ if len(lg)==1:return lg[0]
+ N=0;bm=lg[0];pv=0
+ for d in range(64):
+  try:
+   lo=-9e4;hi=9e4;gm=pv
+   while lo<hi:
+    sc=sr(gm,d,0)
+    if sc>=gm:lo=sc
+    else:hi=sc
+    gm=(lo+hi+1)//2
+   pv=lo
+   sr(pv,d,0)
+   e=T.get((tuple(B),C,E,s))
+   if e and e[3]:bm=e[3]
+  except TE:break
+ return bm
+def ld(mv):
+ global B,s,C,E,K,NP
+ B=[0]*128;s=1;C=15;E=-1;K=[4,116];NP=14
+ for i,v in enumerate(map(int,'42356324')):
+  B[i]=v;B[i+16]=1;B[i+96]=-1;B[i+112]=-v
+ for o in mv:
+  for m in gn(0):
+   if nm(m)==o:mk(m);break
+def nm(m):
+ f=m&127;t=(m>>7)&127;q=m>>14
+ return chr(97+(f&7))+str((f>>4)+1)+chr(97+(t&7))+str((t>>4)+1)+('nbrq'[q-2] if q else '')
+U=os.getenv('MAKEFUN_ENV_URL','')
+def po(p,d):return json.load(u.urlopen(u.Request(U+p,data=json.dumps(d).encode())))
+def main():
+ while 1:
+  g=po('/game',{})
+  if g.get('status')=='done':return
+  if g['status']!='your_move':continue
+  L=g.get('legal_moves')or['e2e4']
+  try:
+   ld(g['moves']);o=nm(ch())
+   if o not in L:o=L[0]
+  except Exception:o=L[0]
+  try:po('/move',{'game':g['game'],'move':o})
+  except Exception:pass
+if __name__[0]=='_':main()
